@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<block block_id="HomeRecentComments" title="Blog Recent Comments" version_string="1.0.0" version_id="1" url="" install_callback_class="" install_callback_method="" uninstall_callback_class="" uninstall_callback_method="" cache="+1 hours">
+  <admin_templates/>
+  <listeners/>
+  <options/>
+  <phrases/>
+  <route_prefixes/>
+  <templates>
+    <template title="EWRblock_HomeRecentComments"><![CDATA[
+    <xen:require css="xfa_blog_wf_comments.css" />
+    <div class="section">
+    	{xen:raw $HomeRecentComments}
+    </div>
+	]]></template>
+  </templates>
+</block>

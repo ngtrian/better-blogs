@@ -1,0 +1,4 @@
+
+Warning: require(/xenforo/xf_cemzoo/library/XenForo/Autoloader.php): failed to open stream: No such file or directory in /Volumes/RICARDO_HD/Users/ricardo/Library/Mobile Documents/com~apple~CloudDocs/CloudSync/Sites/xenforo/hacks/bin/xmlDownload.php on line 6
+
+Fatal error: require(): Failed opening required '/xenforo/xf_cemzoo/library/XenForo/Autoloader.php' (include_path='.:') in /Volumes/RICARDO_HD/Users/ricardo/Library/Mobile Documents/com~apple~CloudDocs/CloudSync/Sites/xenforo/hacks/bin/xmlDownload.php on line 6

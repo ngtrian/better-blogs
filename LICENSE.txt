@@ -1,0 +1,16 @@
+Blogs functionality for your XenForo
+
+License:
+	Completely free to modify and redistribute
+
+	About usage
+		Completely free to use
+		
+	About derived work
+		You are free to make changes and redistribute
+
+	About our responsibility
+		This code is provided on an "AS IS" basis, without warranty of any kind
+		
+	Support
+		There is no support contract. There is no obligation to support you
